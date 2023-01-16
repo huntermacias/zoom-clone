@@ -1,7 +1,7 @@
 # Our Twitch
 A real time messaging & video calling. Youtube tutorial will be upload in the comming days.
 
-Live Demo: coming soon
+Live Demo: https://lively-pastelito-3c6253.netlify.app/
 
 # Installation
 * 1 - clone repo https://github.com/HunterMRocha/zoom-clone.git
